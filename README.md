@@ -235,16 +235,13 @@
 
 -->
 
-
-
-
-  <div align="center">
+  < div  align = “center” >
     <video controls>
      <source src="资源/视频.mkv">
      <source src="资源/视频.mp4">
      <source src="资源/视频.webm">
-    </video>
+    </video>>
+</html>
      <audio src="资源/音乐/丫头.mp3" controls></audio>
  </div>
-</body>
-</html>
+</body
